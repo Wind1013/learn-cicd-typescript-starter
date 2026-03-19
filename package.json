@@ -30,6 +30,9 @@
     "express": "^4.21.1",
     "uuid": "^11.0.3"
   },
+  "overrides": {
+    "esbuild": "^0.27.0"
+  },
   "prettier": {
     "printWidth": 80,
     "useTabs": false,
